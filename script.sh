@@ -1,3 +1,2 @@
-#!/bin/bash
-echo "Hello from Jenkins Task 2"
+echo "Auto build working - FINAL TEST"
 date
